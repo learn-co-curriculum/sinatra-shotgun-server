@@ -148,7 +148,7 @@ Maximum connections set to 1024
 Listening on 127.0.0.1:4200, CTRL+C to stop
 ```
 
-You'll notice the server started on port `4200` which is hopefully unoccupied. You can supply any port number. But it's best to terminate your servers rather than just start 100s on different ports.
+You'll notice the server started on port `4200` which is hopefully unoccupied. You can supply any port number. But it's best to terminate your servers rather than just start hundreds of different ports.
 
 
 <a href='https://learn.co/lessons/sinatra-shotgun-server' data-visibility='hidden'>View this lesson on Learn.co</a>
